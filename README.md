@@ -10,6 +10,8 @@ Scripts for web scraping, downloading, and web-related automation.
 
 ### [files/](files/)
 File manipulation, conversion, and organization scripts.
+- **pdf_split_on_marker.sh** - Split PDFs based on text markers (e.g., "End of Report")
+- **pdf_find_ranges.sh** - Find page ranges in PDFs (helper for split script)
 - File format conversion
 - Bulk renaming and organizing
 - Image processing
